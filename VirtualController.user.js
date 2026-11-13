@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Virtual Gamepad
-// @namespace    https://github.com/yashraj-kamble/VirtuaController
-// @version      5.4
+// @namespace    https://github.com/yashraj-kamble/VirtualController
+// @version      1.0.0
 // @description  Virtual gamepad with trackpad
 // @license      MIT
 // @author       Yashraj
